@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshitrathor3
 - 👀 I’m interested in Machine Learning, Python, Java, MySQL.
 - 🌱 I’m currently learning Machine Learning, DSA.
-- 💞️ I’m looking to collaborate on Machine Learning, Python Javam MySQL, etc.
+- 💞️ I’m looking to collaborate on Machine Learning, Python Java, MySQL, etc.
 - 📫 How to reach me ...
   - LinkedIn: https://www.linkedin.com/in/harshit-rathore-53107b20b/
   - Twitter: https://twitter.com/harshit_rathor3
