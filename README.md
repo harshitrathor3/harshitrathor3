@@ -6,7 +6,7 @@
   - LinkedIn: https://www.linkedin.com/in/harshit-rathore-53107b20b/
   - Twitter: https://twitter.com/harshit_rathor3
   - Instagram: https://www.instagram.com/___harshit___rathore___/
-- 💻 My coding Profiles:
+- 💻 My coding profiles:
   - HackeRank: https://www.hackerrank.com/harshitrathore3
   - CodeChef: https://www.codechef.com/users/harshit_rathr3
   - LeetCode: https://leetcode.com/harshit_rathr3/
