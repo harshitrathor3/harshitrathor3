@@ -13,6 +13,15 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitrathor3&show_icons=true&locale=en&layout=compact" alt="harshitrathor3" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitrathor3&" alt="harshitrathor3" /></p>
+
+
+
+
+
+
+
+
 <!---
 harshitrathor3/harshitrathor3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
