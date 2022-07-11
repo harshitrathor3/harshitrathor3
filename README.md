@@ -1,3 +1,6 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitrathor3&label=Profile%20views&color=0e75b6&style=flat" alt="naik-g" /> </p>
+
+
 - Hi,<img hei src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">  I’m @harshitrathor3
 - 👀 I’m interested in Machine Learning, Python, Java, MySQL.
 - 🌱 I’m currently learning Machine Learning, DSA.
@@ -10,7 +13,6 @@
   - HackeRank: https://www.hackerrank.com/harshitrathore3
   - CodeChef: https://www.codechef.com/users/harshit_rathr3
   - LeetCode: https://leetcode.com/harshit_rathr3/
-
 
 
 
