@@ -11,10 +11,20 @@
   - CodeChef: https://www.codechef.com/users/harshit_rathr3
   - LeetCode: https://leetcode.com/harshit_rathr3/
 
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshitrathor3&show_icons=true&locale=en&layout=compact" alt="harshitrathor3" /></p>
+
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitrathor3&" alt="harshitrathor3" /></p>
 
+
+
+
+<a href="https://github.com/harshitrathor3/github-readme-activity-graph"><img alt="Harshit Rathore's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=harshitrathor3" /></a>
 
 
 
