@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshitrathor3
+- Hi,<img hei src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">  I’m @harshitrathor3
 - 👀 I’m interested in Machine Learning, Python, Java, MySQL.
 - 🌱 I’m currently learning Machine Learning, DSA.
 - 💞️ I’m looking to collaborate on Machine Learning, Python, Java, MySQL, etc.
