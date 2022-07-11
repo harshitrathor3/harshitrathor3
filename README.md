@@ -1,6 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitrathor3&label=Profile%20views&color=0e75b6&style=flat" alt="naik-g" /> </p>
 
 
+
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+
+
+
 - Hi,<img hei src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">  I’m @harshitrathor3
 - 👀 I’m interested in Machine Learning, Python, Java, MySQL.
 - 🌱 I’m currently learning Machine Learning, DSA.
