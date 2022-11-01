@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/harshit-rathore-53107b20b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-rathore-53107b20b" height="30" width="40" /></a>
 <a href="https://instagram.com/___harshit___rathore___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___harshit___rathore___" height="30" width="40" /></a>
-<a href="https://twitter.com/https://twitter.com/harshit_rathor3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/harshit_rathor3" height="30" width="40" /></a>
+<a href="https://twitter.com/harshit_rathor3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshit_rathor3" height="30" width="40" /></a>
 </p>
   
 <h3 align="left">Coding Profiles:</h3>
