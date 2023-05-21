@@ -7,7 +7,7 @@
 
 
 
-- Hi,<img hei src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px">  I’m @harshitrathor3
+- <img hei src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> Hi, I’m @harshitrathor3
 - 👀 I’m interested in Machine Learning, Python, Java, MySQL.
 - 🌱 I'm mastering Machine Learning and Web Development.
 - 💞️ I’m looking to collaborate on Machine Learning, Python, Java, MySQL, etc.
